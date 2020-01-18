@@ -1,2 +1,2 @@
 # Holberton School - Zero Day
-## My first day at Holberton School
+## My first projects at Holberton School
